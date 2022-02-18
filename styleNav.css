@@ -69,10 +69,10 @@ margin-left: 3px;
 }
 
 #seperator{
-  display:block;
   width: 960px;
+  background-image: url(/projects/class-201/lab-10/chocolate-cake/lab-assets/hr-img.png);
+  background-repeat: repeat;
   height: 20px;
-  margin-top: 15px;
 }
 
 #print{
