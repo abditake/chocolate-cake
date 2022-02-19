@@ -1,0 +1,63 @@
+
+/* HELL YEAH! I figgured this out! */
+footer {
+  width: 960px;
+  background-image: url(/tinyimg.png);
+  background-repeat: repeat; height: 20px; 
+} 
+
+/* #linetop{
+  background-image: url(/tinyimg.png);
+  background-repeat: repeat; height: 20px;
+} */
+
+#vanessa {
+  padding-top: 50px;
+  flex: auto;
+}
+
+
+#vs {
+  font-size: 15px;
+  color: rgb(104, 102, 102);
+}
+
+#aboutV {
+  color: rgb(142, 142, 143);
+  }
+
+#recipe {
+  float: right;
+  font-size: 18px;
+  background-color: rgb(172, 95, 70);
+  border: none;
+  /* padding-inline: 20px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(218, 218, 218);
+}
+
+#minilogo {
+  float: auto;
+  padding-left: 450px;
+}
+
+#reserved {
+  float: auto;
+  padding-left: 395px;
+  font-size: 10px;
+  margin: 2px;
+  color: rgb(188, 188, 189);
+}
+
+#c {
+  height: 10px;
+}
+
+#reserved2 {
+  float: auto;
+  padding-left: 405px;
+  font-size: 10px;
+  margin-top: 2px;
+  color: rgb(188, 188, 189);
+}
