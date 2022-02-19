@@ -1,0 +1,94 @@
+header{
+  background-color: white;
+  height: 150px;
+  margin-bottom: 50px;
+}
+
+nav{
+  width: 960px;
+  margin:auto;
+  -ms-flex-align: center;
+}
+
+
+#flickr{
+  margin-top: 25px;
+  float: right;
+  flex: auto;
+  margin-left: 3px;
+}
+#facebook{
+margin-top: 25px;
+float: right;
+flex: auto;
+margin-left: 3px;
+}
+
+#google{
+margin-top: 25px;
+float: right;
+flex: auto;
+margin-left: 3px;
+}
+
+#insta{
+margin-top: 25px;
+float: right;
+flex: auto;
+margin-left: 3px;
+}
+
+
+#mail{
+margin-top: 25px;
+float: right;
+flex: auto;
+margin-left: 3px;
+}
+
+#pintrest{
+margin-top: 25px;
+float: right;
+flex: auto;
+margin-left: 3px;
+}
+
+
+#rss{
+  margin-top: 25px;
+  float: right;
+  flex: auto;
+margin-left: 3px;
+}
+
+#twitter{
+  margin-top: 25px;
+  float: right;
+  flex: auto;
+  margin-left: 3px;
+}
+
+#seperator{
+  width: 960px;
+  background-image: url(/projects/class-201/lab-10/chocolate-cake/lab-assets/hr-img.png);
+  background-repeat: repeat;
+  height: 20px;
+}
+
+#print{
+margin-top: 25px;
+float: right;
+flex: auto;
+margin-left: 3px;
+position: relative;
+}
+
+#logo1{
+  margin-top: 15px;
+}
+
+nav p {
+display: inline-block;
+font-size: xxx-large;
+font-family: 'Cedarville Cursive', cursive;
+}
