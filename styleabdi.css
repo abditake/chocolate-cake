@@ -1,0 +1,101 @@
+body{
+  width: 960px;
+}
+
+
+h2{
+  font-size: 40px;
+  
+}
+
+
+h6{
+font-size: 10px;
+color: #D3D3D3;
+}
+
+
+
+#topsection{
+  display: inline-block;
+  float: right;
+}
+
+#printicon{
+  position: relative;
+}
+
+
+
+
+ #text{
+   font-size: 20px;
+   width: 960px;
+   text-indent: 10px;
+ }
+
+
+#checklist{
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+.leftside1{
+  position: absolute;
+  top: 20px;
+  left: 170px
+}
+
+.leftside2{
+  position: absolute;
+  top: 40px;
+  left: 170px
+}
+
+.leftside3{
+  position: absolute;
+  top: 60px;
+  left: 170px
+}
+
+.leftside4{
+  position: absolute;
+  top: 80px;
+  left: 170px
+}
+.leftside5{
+  position: absolute;
+  top: 100px;
+  left: 500px
+}
+
+.rightside1{
+  position: absolute;
+  top: 20px;
+  left: 500px
+}
+
+.rightside2{
+  position: absolute;
+  top: 40px;
+  left: 500px
+}
+.rightside3{
+  position: absolute;
+  top: 60px;
+  left: 500px
+}
+.rightside4{
+  position: absolute;
+  top: 80px;
+  left: 500px
+}
+.rightside5{
+  position: absolute;
+  top: 100px;
+  left: 500px
+}
+
+
