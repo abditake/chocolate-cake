@@ -2,7 +2,7 @@
 /* HELL YEAH! I figgured this out! */
 footer {
   width: 960px;
-  background-image: url(/tinyimg.png);
+  background-image: url(../lab-assets/tinyimg.png);
   background-repeat: repeat; height: 20px; 
 } 
 

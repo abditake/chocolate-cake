@@ -70,7 +70,7 @@ margin-left: 3px;
 
 #seperator{
   width: 960px;
-  background-image: url(/projects/class-201/lab-10/chocolate-cake/lab-assets/hr-img.png);
+  background-image: url(../lab-assets/hr-img.png);
   background-repeat: repeat;
   height: 20px;
 }
